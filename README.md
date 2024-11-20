@@ -1,16 +1,36 @@
-## Hi there 👋
+- **TG**: @mushr_m  
+- **Phone**: +7(910)341-23-06  
+- **Email**: gloxena.w@gmail.com  
+---
+## Education
+- **MIREA - Institute of IT** (2023 - ...)  
+  Software Engineering (Intelligent Decision Support Systems), Bachelor's degree  
+---
+## Additional Education
+- **Yandex Lyceum** (2020 - 2022)  
+- **21school** (2023) - QA Engineer training course
+- **Samsung Course** (2023 - 2024) - Mobile development on Java
+---
+## Skills
+- **Programming Languages**: Python, C++, C#, Java  
+- **Machine Learning**: Scikit-learn, Pandas, Matplotlib, PyTorch, TensorFlow  
+- **Tools**: SQL, Git, Docker, Bash  
+- **Operating Systems**: Linux, Windows  
+- **Languages**:  
+  - Russian: Native  
+  - English: Cambridge Assessment PET, Overall: 159/170 (2020)  
+---
+## Projects
+- **[Video Tagger AI](https://github.com/alesplll/VidTagger_AI)** (CV, NLP, Classification)  
+  AI system for generating tags for RuTube videos with a working web service.  
+  Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).  
 
-<!--
-**alesplll/alesplll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Messenger with AI](https://github.com/alesplll/AI_messenger)**  
+  A mobile Android app with a graphical interface for chatting with ChatGPT characters.  
+  Includes a server-side component handling message processing and interaction with the ChatGPT API.  
+  Technologies: Java, Python (Flask SSL, AWS, SQLite, API Integration).  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Librarian](https://github.com/alesplll/Repnoe)**  
+  A graphical Windows application optimizing librarian workflow.  
+  Functions as a digital notebook for managing readers and borrowed books.  
+  Technologies: C#, SQLite, Windows Forms.  
