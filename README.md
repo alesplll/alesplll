@@ -1,5 +1,3 @@
-- **TG**: @mushr_m  
-- **Phone**: +7(910)341-23-06  
 - **Email**: gloxena.w@gmail.com  
 ---
 ## Education
@@ -13,12 +11,9 @@
 ---
 ## Skills
 - **Programming Languages**: Python, C++, C#, Java  
-- **Machine Learning**: Scikit-learn, Pandas, Matplotlib, PyTorch, TensorFlow  
-- **Tools**: SQL, Git, Docker, Bash  
+- **Machine Learning**
+- **Tools**: SQL, Git, Docker, Bash...  
 - **Operating Systems**: Linux, Windows  
-- **Languages**:  
-  - Russian: Native  
-  - English: Cambridge Assessment PET, Overall: 159/170 (2020)  
 ---
 ## Projects
 - **[Video Tagger AI](https://github.com/alesplll/VidTagger_AI)** (CV, NLP, Classification)  
