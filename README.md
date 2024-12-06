@@ -16,7 +16,7 @@
 - **Operating Systems**: Linux, Windows  
 ---
 ## Projects
-- **[Video Tagger AI](https://github.com/alesplll/VidTagger_AI)** (CV, NLP, Classification)  
+- **[Video Tagger AI](https://github.com/alesplll/VidTagger_AI)** **(CV, NLP, Classification)**  
   AI system for generating tags for RuTube videos with a working web service.  
   Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).  
 
@@ -30,7 +30,7 @@
   Functions as a digital notebook for managing readers and borrowed books.  
   Technologies: C#, SQLite, Windows Forms.
 
-- **[Text Summarizer](https://github.com/alesplll/Summarizer.git)** (NLP, Summarization)  
+- **[Text Summarizer](https://github.com/alesplll/Summarizer.git)** **(NLP, Summarization)**  
   A Python-based tool for extractive and abstractive text summarization using T5-small and fine-tuned BART-large models.  
   Includes scripts for training, preprocessing, and generating summaries with an user web-interface.  
   Technologies: Python (PyTorch, Hugging Face Transformers, Datasets, Scikit-learn, Streamlit).  
