@@ -16,7 +16,7 @@
 - **Operating Systems**: Linux, Windows  
 ---
 ## Projects
-- **[Video Tagger AI](https://github.com/alesplll/VidTagger_AI)** **(CV, NLP, Classification) - ML**  
+- **[Video Tagger AI](https://github.com/Sanch0pansa/hackathon_video_tagging)** **(CV, NLP, Classification) - ML**  
   AI system for generating tags for RuTube videos with a working web service.  
   Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).  
 
