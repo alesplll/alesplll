@@ -13,7 +13,7 @@
 - **Programming Languages**: Python, C++, C#, Java  
 - **Machine Learning**
 - **Tools**: SQL, Git, Docker, Bash...  
-- **Operating Systems**: Linux, Windows  
+- **Operating Systems**: Arch, Ubuntu, Kali, Windows  
 ---
 ## Projects
 - **[NewsPaper Parser](https://github.com/Sanch0pansa/NewsPaperParser)** **(Parsing, NLP, Visualization, ORM)**  
