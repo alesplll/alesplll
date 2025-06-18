@@ -16,6 +16,13 @@
 - **Operating Systems**: Linux, Windows  
 ---
 ## Projects
+- **[NewsPaper Parser](https://github.com/Sanch0pansa/NewsPaperParser)** **(Parsing, NLP, Visualization, ORM)**  
+  An automated system for collecting, analyzing, and visualizing news from major Russian media (RBC, TASS, KP).  
+  Features scalable parsers, BERT-based text embeddings, and topic analysis with t-SNE projection.  
+  Grafana for interactive dashboards. All components are containerized with Docker.
+  Microservice architecture between components and multilayered design within each service.
+  Technologies: Python, PyTorch, BERT, FastAPI, PostgreSQL, Grafana, Docker, SQLAlchemy, t-SNE.
+  
 - **[Video Tagger AI](https://github.com/Sanch0pansa/hackathon_video_tagging)** **(CV, NLP, Classification) - ML**  
   AI system for generating tags for RuTube videos with a working web service.  
   Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).  
