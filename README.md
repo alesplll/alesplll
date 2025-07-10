@@ -25,7 +25,11 @@
   
 - **[Video Tagger AI](https://github.com/Sanch0pansa/hackathon_video_tagging)** **(CV, NLP, Classification) - ML**  
   AI system for generating tags for RuTube videos with a working web service.  
-  Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).  
+  Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).
+
+- **[ModelLang Analyzer](https://github.com/alesplll/model-lang-analyzer)** **(Parsing, Syntax, Semantics, Error Reporting)**
+  A working compiler (parser) for a model programming language, implementing full lexical, syntactic, and semantic analysis. The analyzer reads source code, tokenizes it, parses according to a formal grammar (recursive descent), and performs semantic checks such as variable declarations, type consistency, and logic validation. The system automatically detects both syntactic and semantic errors, returning precise diagnostics with the error type, line and column number, and a brief description (e.g., `Parsing error at line 23, column 9: Unexpected token 'counter', expected 'begin '`). Designed as a console application for educational and prototyping purposes.
+  Technologies: Python (finite automata, recursive descent parsing, symbol tables, error handling).
 
 - **[Messenger with AI](https://github.com/alesplll/AI_messenger)**  
   A mobile Android app with a graphical interface for chatting with ChatGPT characters.  
