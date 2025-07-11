@@ -1,7 +1,7 @@
 - **Email**: gloxena.w@gmail.com  
 ---
 ## Education
-- **MIREA - Institute of IT** (2023 - ...)  
+- **MIREA - Institute of IT** (2023 - 2027)  
   Software Engineering (Intelligent Decision Support Systems), Bachelor's degree  
 ---
 ## Additional Education
