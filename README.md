@@ -1,5 +1,9 @@
 - **Email**: gloxena.w@gmail.com  
 ---
+## Work Experience
+- **Data Engineer**, MOEX (Moscow Exchange) — 2025 - Present  
+  Developing and maintaining data infrastructure, automating ETL processes, integrating with BI systems, and optimizing data pipelines.  
+---
 ## Education
 - **MIREA - Institute of IT** (2023 - 2027)  
   Software Engineering (Intelligent Decision Support Systems), Bachelor's degree  
