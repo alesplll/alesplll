@@ -18,9 +18,9 @@ Developing and maintaining Oracle-based ETL pipelines, DWH infrastructure, and d
 - **Samsung Course** (2023 - 2024) - Mobile development on Java
 ---
 ## Skills
-- **Programming Languages**: Python, C++, C#, Java  
+- **Programming Languages**: Python, Rust, C++, C#, Java  
 - **Machine Learning**
-- **Tools**: SQL, Git, Docker, Bash...  
+- **Tools**: SQL, Redis, Kafka, Neo4j, Git, Docker, Bash...  
 - **Operating Systems**: Arch, Ubuntu, Kali, Windows  
 ---
 ## Projects
