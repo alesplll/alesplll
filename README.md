@@ -1,8 +1,12 @@
 - **Email**: gloxena.w@gmail.com  
 ---
 ## Work Experience
-- **Data Engineer**, MOEX (Moscow Exchange) — 2025 - Present  
-  Developing and maintaining data infrastructure, automating ETL processes, integrating with BI systems, and optimizing data pipelines.  
+
+**MOEX (Moscow Exchange)**
+- Middle Data Engineer — Apr 2026 – present
+- Junior Data Engineer — Aug 2025 – Apr 2026
+
+Developing and maintaining Oracle-based ETL pipelines, DWH infrastructure, and data distribution to external partners.
 ---
 ## Education
 - **MIREA - Institute of IT** (2023 - 2027)  
@@ -20,6 +24,13 @@
 - **Operating Systems**: Arch, Ubuntu, Kali, Windows  
 ---
 ## Projects
+
+- **[opens3-rebac](https://github.com/alesplll/opens3-rebac)** **(Distributed Systems, Storage, ReBAC)**
+  A distributed S3-compatible object storage system with Relationship-Based Access Control (ReBAC) authorization.
+  Supports bucket/object CRUD, multipart uploads, and fine-grained access management via a graph-based permission model.
+  For more details, see the [project wiki](https://github.com/alesplll/opens3-rebac/wiki).
+    **Technologies: Python, Rust, Go, gRPC, Neo4j, PostgreSQL, Redis, Kafka, Docker, Observability.**
+
 - **[NewsPaper Parser](https://github.com/Sanch0pansa/NewsPaperParser)** **(Parsing, NLP, Visualization, ORM)**  
   An automated system for collecting, analyzing, and visualizing news from major Russian media (RBC, TASS, KP).  
   Features scalable parsers, BERT-based text embeddings, and topic analysis with t-SNE projection.  
@@ -30,22 +41,3 @@
 - **[Video Tagger AI](https://github.com/Sanch0pansa/hackathon_video_tagging)** **(CV, NLP, Classification) - ML**  
   AI system for generating tags for RuTube videos with a working web service.  
   **Technologies: Python (BERT, VideoMAE, Vosk, MLP, SVM, Decision Tree).**
-
-- **[ModelLang Analyzer](https://github.com/alesplll/model-lang-analyzer)** **(Parsing, Syntax, Semantics, Error Reporting)**
-    A working parser for a model programming language, implementing full lexical, syntactic, and semantic analysis. The analyzer reads source code, tokenizes it, parses according to a formal grammar (recursive descent), and performs semantic checks such as variable declarations, type consistency, and logic validation. The system automatically detects both syntactic and semantic errors, returning precise diagnostics with the error type, line and column number, and a brief description (e.g., `Parsing error at line 23, column 9: Unexpected token 'counter', expected 'begin '`). Designed as a console application for educational and prototyping purposes.
-    **Technologies: Python (finite automata, recursive descent parsing, symbol tables, error handling).**
-
-- **[Messenger with AI](https://github.com/alesplll/AI_messenger)**  
-  A mobile Android app with a graphical interface for chatting with ChatGPT characters.  
-  Includes a server-side component handling message processing and interaction with the ChatGPT API.  
-  **Technologies: Java, Python (Flask SSL, AWS, SQLite, API Integration).**
-
-- **[Librarian](https://github.com/alesplll/Repnoe)**  
-  A graphical Windows application optimizing librarian workflow.  
-  Functions as a digital notebook for managing readers and borrowed books.  
-  **Technologies: C#, SQLite, Windows Forms.**
-
-- **[Text Summarizer](https://github.com/alesplll/Summarizer.git)** **(NLP, Summarization) - ML**  
-  A Python-based tool for extractive and abstractive text summarization using T5-small and fine-tuned BART-large models.  
-  Includes scripts for training, preprocessing, and generating summaries with an user web-interface.  
-  **Technologies: Python (PyTorch, Hugging Face Transformers, Datasets, Scikit-learn, Streamlit).**
